@@ -1,0 +1,14 @@
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\bin\Debug\net7.0\OOP_Lab3_1.exe
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\bin\Debug\net7.0\OOP_Lab3_1.deps.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\bin\Debug\net7.0\OOP_Lab3_1.runtimeconfig.json
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\bin\Debug\net7.0\OOP_Lab3_1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\bin\Debug\net7.0\OOP_Lab3_1.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.AssemblyInfoInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.AssemblyInfo.cs
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\refint\OOP_Lab3_1.dll
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.pdb
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\OOP_Lab3_1.genruntimeconfig.cache
+C:\Users\Vika\Desktop\лабораторні\ООП\OOP_Lab3\OOP_Lab3_1\obj\Debug\net7.0\ref\OOP_Lab3_1.dll
